@@ -3,7 +3,7 @@
 This PHP script uses Selenium WebDriver to scrape data from TikTok profiles and stores the information in a Google Spreadsheet.
 
 ## Screenshots
-![Screenshot 1](https://github.com/xanthopsia/TikTokScraper/blob/main/spreadsheets.png)\
+![Screenshot 1](https://github.com/xanthopsia/TikTokScraper/blob/main/spreadsheets.png)
 
 ## Setup
 1. Install PHP, Composer and ChromeDriver on your machine
