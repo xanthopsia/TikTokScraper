@@ -10,3 +10,6 @@ This PHP script uses Selenium WebDriver to scrape data from TikTok profiles and 
 1. Run ChromeDriver using `chromedriver --port=1337`
 2. Add path to service key and spreadsheet id for Google Sheets in your .env file
 3. If needed, add URLs to index.php file and run the script using `php index.php`
+
+## Screenshots
+![Screenshot 1](https://github.com/xanthopsia/TikTokScraper/blob/main/spreadsheets.png)
